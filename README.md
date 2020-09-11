@@ -1,2 +1,1 @@
-"# SurfSpots" 
 This web application is in progress.  I created it to teach myself .NET Core 3.0 and to integrate some API calls.  The purpose of this site is to allow the user to create, edit or delete personal surf spots and to also be able to connect to that location's surf forecast.  Unfortunately I was unable to get an API key from the third party website I was planning to integrate with to connect to the forecast, so still need to add some test API/JSON responses to simulate a response. 
