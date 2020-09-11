@@ -1,0 +1,54 @@
+﻿@page
+@model SurfBreaks.Pages.Breaks.ListModel
+@{
+    ViewData["Title"] = "Surf Breaks";
+}
+
+<h1> Surf Breaks</h1>
+
+<form method="get">
+    <div class="form-group">
+        <div class="input-group">
+            <input type="search" class="form-control" asp-for="SearchTerm" />
+            <span class="input-group-btn">
+                <button class="btn btn-default">
+                    <i class="glyphicon glyphicon-search"></i>
+                </button>
+            </span>
+        </div>
+    </div>
+</form>
+
+@foreach (var surfBreak in Model.SurfBreaks)
+{
+    <partial name="_Summary" model="surfBreak" />
+}
+
+    @*<table class="table">
+            @foreach (var surfBreak in Model.SurfBreaks)
+            {
+                <tr>
+                    <td> @surfBreak.Name </td>
+                    <td> @surfBreak.Location </td>
+                    <td> @surfBreak.Break</td>
+                    <td>
+                        <a class="btn btn-primary" asp-page="./Detail" asp-route-surfBreakId="@surfBreak.Id">
+                            More Details
+                            <i class="glyphicon glyphicon-search"> </i>
+                        </a>
+                        <a class="btn btn-primary" asp-page="./Edit" asp-route-surfBreakId="@surfBreak.Id">
+                            Edit
+                            <i class="glyphicon glyphicon-edit"> </i>
+                        </a>
+                        <a class="btn btn-primary" asp-page="./Delete" asp-route-surfBreakId="@surfBreak.Id">
+                            Delete
+                            <i class="glyphicon glyphicon-trash"> </i>
+                        </a>
+                    </td>
+                </tr>
+            }
+        </table>*@
+ 
+    <a asp-page="./Edit" class="btn btn-primary"> Add New Spot...</a>
+
+<div>@Model.Message</div>

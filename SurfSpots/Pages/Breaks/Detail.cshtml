@@ -1,0 +1,30 @@
+﻿@page "{surfBreakId:int?}"
+@model SurfBreaks.Pages.Breaks.DetailModel
+@{
+    ViewData["Title"] = "Detail";
+}
+
+<h2> @Model.SurfBreak.Name </h2>
+<div>
+    Id: @Model.SurfBreak.Id  
+</div>
+<div>
+    Location: @Model.SurfBreak.Location
+</div>
+<div>
+    Bottom Type: @Model.SurfBreak.Break
+</div>
+
+@if(Model.Message != null)
+{
+    <div class="alert alert-info">
+        @Model.Message
+    </div>
+}
+
+<a class="btn btn-primary" asp-page="./Forecast" asp-route-surfBreakId="@Model.SurfBreak.Id">
+    Forecast
+    <i class="glyphicon glyphicon-edit"> </i>
+</a>
+<br/>
+<a asp-page="./List"> All Surf Breaks</a>

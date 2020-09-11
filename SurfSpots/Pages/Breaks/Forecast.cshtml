@@ -1,0 +1,13 @@
+﻿@page "{surfBreakId:int?}"
+@model SurfBreaks.Pages.Breaks.ForecastModel
+@{
+    ViewData["Title"] = "Forecast";
+}
+
+<h2> Current Conditions and Forecast </h2>
+<h2> @Model.SurfBreak.Name</h2>
+<h1> The API key is @Model.RegisteredId</h1>
+
+<a href="http://magicseaweed.com"><img src="https://im-1-uk.msw.ms/msw_powered_by.png"></a>
+
+<a asp-page="./List"> All Surf Breaks</a>

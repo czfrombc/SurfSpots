@@ -1,0 +1,9 @@
+C:\Users\czfro_jam\Desktop\C#_Surf_Project\SurfSpots\SurfSpots\SurfBreaks.Core\bin\Debug\netcoreapp3.1\SurfBreaks.Core.deps.json
+C:\Users\czfro_jam\Desktop\C#_Surf_Project\SurfSpots\SurfSpots\SurfBreaks.Core\bin\Debug\netcoreapp3.1\SurfBreaks.Core.dll
+C:\Users\czfro_jam\Desktop\C#_Surf_Project\SurfSpots\SurfSpots\SurfBreaks.Core\obj\Debug\netcoreapp3.1\SurfBreaks.Core.csprojAssemblyReference.cache
+C:\Users\czfro_jam\Desktop\C#_Surf_Project\SurfSpots\SurfSpots\SurfBreaks.Core\obj\Debug\netcoreapp3.1\SurfBreaks.Core.AssemblyInfoInputs.cache
+C:\Users\czfro_jam\Desktop\C#_Surf_Project\SurfSpots\SurfSpots\SurfBreaks.Core\obj\Debug\netcoreapp3.1\SurfBreaks.Core.AssemblyInfo.cs
+C:\Users\czfro_jam\Desktop\C#_Surf_Project\SurfSpots\SurfSpots\SurfBreaks.Core\bin\Debug\netcoreapp3.1\SurfBreaks.Core.pdb
+C:\Users\czfro_jam\Desktop\C#_Surf_Project\SurfSpots\SurfSpots\SurfBreaks.Core\obj\Debug\netcoreapp3.1\SurfBreaks.Core.csproj.CoreCompileInputs.cache
+C:\Users\czfro_jam\Desktop\C#_Surf_Project\SurfSpots\SurfSpots\SurfBreaks.Core\obj\Debug\netcoreapp3.1\SurfBreaks.Core.dll
+C:\Users\czfro_jam\Desktop\C#_Surf_Project\SurfSpots\SurfSpots\SurfBreaks.Core\obj\Debug\netcoreapp3.1\SurfBreaks.Core.pdb

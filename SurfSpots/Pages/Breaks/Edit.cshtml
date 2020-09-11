@@ -1,0 +1,32 @@
+﻿@page "{surfBreakId:int?}"
+@model SurfBreaks.Pages.Breaks.EditModel
+@{
+    ViewData["Title"] = "Edit";
+}
+
+<h2> Editing @Model.SurfBreak.Name </h2>
+
+<form method="post">
+    <input type="hidden" asp-for="SurfBreak.Id" />
+    <div class="form-group">
+        <label asp-for="SurfBreak.Name"></label>
+        <input asp-for="SurfBreak.Name" class="form-control" />
+        <span class="text-danger" asp-validation-for="SurfBreak.Name" ></span>
+    </div>
+    <div class="form-group">
+        <label asp-for="SurfBreak.Location"></label>
+        <input asp-for="SurfBreak.Location" class="form-control" />
+        <span class="text-danger" asp-validation-for="SurfBreak.Location"></span>
+    </div>
+    <div class="form-group">
+        <label asp-for="SurfBreak.Break"></label>
+        <select class="form-control" asp-for="SurfBreak.Break" asp-items="Model.SurfBreakTypes">
+        </select>
+        <span class="text-danger" asp-validation-for="SurfBreak.Break"></span>
+    </div>
+    <button type="submit" class="btn btn-primary">Save</button>
+</form>
+
+@section Scripts {
+    <partial name="_ValidationScriptsPartial" />
+}

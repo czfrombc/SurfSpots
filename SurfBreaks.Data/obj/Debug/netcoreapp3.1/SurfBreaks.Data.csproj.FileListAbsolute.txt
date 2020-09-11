@@ -1,0 +1,15 @@
+C:\Users\czfro_jam\Desktop\C#_Surf_Project\SurfSpots\SurfBreaks.Data\bin\Debug\netcoreapp3.1\SurfBreaks.Data.deps.json
+C:\Users\czfro_jam\Desktop\C#_Surf_Project\SurfSpots\SurfBreaks.Data\bin\Debug\netcoreapp3.1\SurfBreaks.Data.runtimeconfig.json
+C:\Users\czfro_jam\Desktop\C#_Surf_Project\SurfSpots\SurfBreaks.Data\bin\Debug\netcoreapp3.1\SurfBreaks.Data.runtimeconfig.dev.json
+C:\Users\czfro_jam\Desktop\C#_Surf_Project\SurfSpots\SurfBreaks.Data\bin\Debug\netcoreapp3.1\SurfBreaks.Data.dll
+C:\Users\czfro_jam\Desktop\C#_Surf_Project\SurfSpots\SurfBreaks.Data\bin\Debug\netcoreapp3.1\SurfBreaks.Data.pdb
+C:\Users\czfro_jam\Desktop\C#_Surf_Project\SurfSpots\SurfBreaks.Data\bin\Debug\netcoreapp3.1\SurfBreaks.Core.dll
+C:\Users\czfro_jam\Desktop\C#_Surf_Project\SurfSpots\SurfBreaks.Data\bin\Debug\netcoreapp3.1\SurfBreaks.Core.pdb
+C:\Users\czfro_jam\Desktop\C#_Surf_Project\SurfSpots\SurfBreaks.Data\obj\Debug\netcoreapp3.1\SurfBreaks.Data.csprojAssemblyReference.cache
+C:\Users\czfro_jam\Desktop\C#_Surf_Project\SurfSpots\SurfBreaks.Data\obj\Debug\netcoreapp3.1\SurfBreaks.Data.AssemblyInfoInputs.cache
+C:\Users\czfro_jam\Desktop\C#_Surf_Project\SurfSpots\SurfBreaks.Data\obj\Debug\netcoreapp3.1\SurfBreaks.Data.AssemblyInfo.cs
+C:\Users\czfro_jam\Desktop\C#_Surf_Project\SurfSpots\SurfBreaks.Data\obj\Debug\netcoreapp3.1\SurfBreaks.Data.csproj.CoreCompileInputs.cache
+C:\Users\czfro_jam\Desktop\C#_Surf_Project\SurfSpots\SurfBreaks.Data\obj\Debug\netcoreapp3.1\SurfBreaks.Data.csproj.CopyComplete
+C:\Users\czfro_jam\Desktop\C#_Surf_Project\SurfSpots\SurfBreaks.Data\obj\Debug\netcoreapp3.1\SurfBreaks.Data.dll
+C:\Users\czfro_jam\Desktop\C#_Surf_Project\SurfSpots\SurfBreaks.Data\obj\Debug\netcoreapp3.1\SurfBreaks.Data.pdb
+C:\Users\czfro_jam\Desktop\C#_Surf_Project\SurfSpots\SurfBreaks.Data\obj\Debug\netcoreapp3.1\SurfBreaks.Data.genruntimeconfig.cache
