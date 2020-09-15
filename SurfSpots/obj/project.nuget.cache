@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "PGRe978HLAGJgEgUlf5sywzV4EYAO0LYTnwC0hzjhBiOqfheIXeUDDIMUjzqr8cF21wHQpnXaDxu+944LaFvQA==",
+  "dgSpecHash": "EWEaMxstCgKvnNeE9ccQM17iQOMK7f/squ7Tpb0fWB2Eyp1TnSDdqRrqb+7dgHVxtGQsW0iTNnzj93Bro+/vCA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\czfro_jam\\Desktop\\C#_Surf_Project\\SurfSpots\\SurfSpots\\SurfBreaks.csproj",
+  "projectFilePath": "C:\\Users\\czfro_jam\\Desktop\\SurfSpots_Project\\SurfSpots\\SurfSpots\\SurfBreaks.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\czfro_jam\\.nuget\\packages\\microsoft.aspnetcore.html.abstractions\\2.2.0\\microsoft.aspnetcore.html.abstractions.2.2.0.nupkg.sha512",
     "C:\\Users\\czfro_jam\\.nuget\\packages\\microsoft.aspnetcore.razor\\2.2.0\\microsoft.aspnetcore.razor.2.2.0.nupkg.sha512",

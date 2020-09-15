@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\czfro_jam\\Desktop\\C#_Surf_Project\\SurfSpots\\SurfSpots\\SurfBreaks.Core\\SurfBreaks.Core.csproj": {}
+    "C:\\Users\\czfro_jam\\Desktop\\SurfSpots_Project\\SurfSpots\\SurfSpots\\SurfBreaks.Core\\SurfBreaks.Core.csproj": {}
   },
   "projects": {
-    "C:\\Users\\czfro_jam\\Desktop\\C#_Surf_Project\\SurfSpots\\SurfSpots\\SurfBreaks.Core\\SurfBreaks.Core.csproj": {
+    "C:\\Users\\czfro_jam\\Desktop\\SurfSpots_Project\\SurfSpots\\SurfSpots\\SurfBreaks.Core\\SurfBreaks.Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\czfro_jam\\Desktop\\C#_Surf_Project\\SurfSpots\\SurfSpots\\SurfBreaks.Core\\SurfBreaks.Core.csproj",
+        "projectUniqueName": "C:\\Users\\czfro_jam\\Desktop\\SurfSpots_Project\\SurfSpots\\SurfSpots\\SurfBreaks.Core\\SurfBreaks.Core.csproj",
         "projectName": "SurfBreaks.Core",
-        "projectPath": "C:\\Users\\czfro_jam\\Desktop\\C#_Surf_Project\\SurfSpots\\SurfSpots\\SurfBreaks.Core\\SurfBreaks.Core.csproj",
+        "projectPath": "C:\\Users\\czfro_jam\\Desktop\\SurfSpots_Project\\SurfSpots\\SurfSpots\\SurfBreaks.Core\\SurfBreaks.Core.csproj",
         "packagesPath": "C:\\Users\\czfro_jam\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\czfro_jam\\Desktop\\C#_Surf_Project\\SurfSpots\\SurfSpots\\SurfBreaks.Core\\obj\\",
+        "outputPath": "C:\\Users\\czfro_jam\\Desktop\\SurfSpots_Project\\SurfSpots\\SurfSpots\\SurfBreaks.Core\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\",

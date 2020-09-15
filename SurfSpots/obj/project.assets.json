@@ -8840,11 +8840,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\czfro_jam\\Desktop\\C#_Surf_Project\\SurfSpots\\SurfSpots\\SurfBreaks.csproj",
+      "projectUniqueName": "C:\\Users\\czfro_jam\\Desktop\\SurfSpots_Project\\SurfSpots\\SurfSpots\\SurfBreaks.csproj",
       "projectName": "SurfBreaks",
-      "projectPath": "C:\\Users\\czfro_jam\\Desktop\\C#_Surf_Project\\SurfSpots\\SurfSpots\\SurfBreaks.csproj",
+      "projectPath": "C:\\Users\\czfro_jam\\Desktop\\SurfSpots_Project\\SurfSpots\\SurfSpots\\SurfBreaks.csproj",
       "packagesPath": "C:\\Users\\czfro_jam\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\czfro_jam\\Desktop\\C#_Surf_Project\\SurfSpots\\SurfSpots\\obj\\",
+      "outputPath": "C:\\Users\\czfro_jam\\Desktop\\SurfSpots_Project\\SurfSpots\\SurfSpots\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\",
@@ -8865,11 +8865,11 @@
       "frameworks": {
         "netcoreapp3.1": {
           "projectReferences": {
-            "C:\\Users\\czfro_jam\\Desktop\\C#_Surf_Project\\SurfSpots\\SurfBreaks.Data\\SurfBreaks.Data.csproj": {
-              "projectPath": "C:\\Users\\czfro_jam\\Desktop\\C#_Surf_Project\\SurfSpots\\SurfBreaks.Data\\SurfBreaks.Data.csproj"
+            "C:\\Users\\czfro_jam\\Desktop\\SurfSpots_Project\\SurfSpots\\SurfBreaks.Data\\SurfBreaks.Data.csproj": {
+              "projectPath": "C:\\Users\\czfro_jam\\Desktop\\SurfSpots_Project\\SurfSpots\\SurfBreaks.Data\\SurfBreaks.Data.csproj"
             },
-            "C:\\Users\\czfro_jam\\Desktop\\C#_Surf_Project\\SurfSpots\\SurfSpots\\SurfBreaks.Core\\SurfBreaks.Core.csproj": {
-              "projectPath": "C:\\Users\\czfro_jam\\Desktop\\C#_Surf_Project\\SurfSpots\\SurfSpots\\SurfBreaks.Core\\SurfBreaks.Core.csproj"
+            "C:\\Users\\czfro_jam\\Desktop\\SurfSpots_Project\\SurfSpots\\SurfSpots\\SurfBreaks.Core\\SurfBreaks.Core.csproj": {
+              "projectPath": "C:\\Users\\czfro_jam\\Desktop\\SurfSpots_Project\\SurfSpots\\SurfSpots\\SurfBreaks.Core\\SurfBreaks.Core.csproj"
             }
           }
         }
