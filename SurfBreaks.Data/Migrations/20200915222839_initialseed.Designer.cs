@@ -2,15 +2,17 @@
 using Microsoft.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore.Infrastructure;
 using Microsoft.EntityFrameworkCore.Metadata;
+using Microsoft.EntityFrameworkCore.Migrations;
 using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 using SurfBreaks.Data;
 
 namespace SurfBreaks.Data.Migrations
 {
     [DbContext(typeof(SurfBreaksDbContext))]
-    partial class SurfBreaksDbContextModelSnapshot : ModelSnapshot
+    [Migration("20200915222839_initialseed")]
+    partial class initialseed
     {
-        protected override void BuildModel(ModelBuilder modelBuilder)
+        protected override void BuildTargetModel(ModelBuilder modelBuilder)
         {
 #pragma warning disable 612, 618
             modelBuilder

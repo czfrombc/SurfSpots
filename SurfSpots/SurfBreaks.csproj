@@ -193,4 +193,6 @@
     <ProjectReference Include="SurfBreaks.Core\SurfBreaks.Core.csproj" />
   </ItemGroup>
 
+  <ProjectExtensions><VisualStudio><UserProperties NpmRestoreOnProjectOpen="False" /></VisualStudio></ProjectExtensions>
+
 </Project>
