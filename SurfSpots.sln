@@ -3,9 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.30330.147
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SurfBreaks", "SurfSpots\SurfBreaks.csproj", "{9804D263-38F8-4284-9C92-6A2DC348832C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SurfBreaks", "SurfBreaks\SurfBreaks.csproj", "{9804D263-38F8-4284-9C92-6A2DC348832C}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SurfBreaks.Core", "SurfSpots\SurfBreaks.Core\SurfBreaks.Core.csproj", "{2FE0C4F7-41CC-44D6-8865-655D9C717949}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SurfBreaks.Core", "SurfBreaks.Core\SurfBreaks.Core.csproj", "{2FE0C4F7-41CC-44D6-8865-655D9C717949}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SurfBreaks.Data", "SurfBreaks.Data\SurfBreaks.Data.csproj", "{ED152EB0-1DDC-4114-AE63-EA1A6CCA34C9}"
 EndProject
