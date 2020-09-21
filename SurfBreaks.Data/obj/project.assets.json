@@ -8378,8 +8378,8 @@
     },
     "SurfBreaks.Core/1.0.0": {
       "type": "project",
-      "path": "../SurfSpots/SurfBreaks.Core/SurfBreaks.Core.csproj",
-      "msbuildProject": "../SurfSpots/SurfBreaks.Core/SurfBreaks.Core.csproj"
+      "path": "../SurfBreaks.Core/SurfBreaks.Core.csproj",
+      "msbuildProject": "../SurfBreaks.Core/SurfBreaks.Core.csproj"
     }
   },
   "projectFileDependencyGroups": {
@@ -8425,8 +8425,8 @@
       "frameworks": {
         "netcoreapp3.1": {
           "projectReferences": {
-            "C:\\Users\\czfro_jam\\Desktop\\SurfSpots_Project\\SurfSpots\\SurfSpots\\SurfBreaks.Core\\SurfBreaks.Core.csproj": {
-              "projectPath": "C:\\Users\\czfro_jam\\Desktop\\SurfSpots_Project\\SurfSpots\\SurfSpots\\SurfBreaks.Core\\SurfBreaks.Core.csproj"
+            "C:\\Users\\czfro_jam\\Desktop\\SurfSpots_Project\\SurfSpots\\SurfBreaks.Core\\SurfBreaks.Core.csproj": {
+              "projectPath": "C:\\Users\\czfro_jam\\Desktop\\SurfSpots_Project\\SurfSpots\\SurfBreaks.Core\\SurfBreaks.Core.csproj"
             }
           }
         }

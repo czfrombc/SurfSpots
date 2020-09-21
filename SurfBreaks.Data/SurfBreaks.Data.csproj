@@ -16,7 +16,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\SurfSpots\SurfBreaks.Core\SurfBreaks.Core.csproj" />
+    <ProjectReference Include="..\SurfBreaks.Core\SurfBreaks.Core.csproj" />
   </ItemGroup>
 
 </Project>
