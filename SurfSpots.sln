@@ -9,6 +9,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SurfBreaks.Core", "SurfBrea
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SurfBreaks.Data", "SurfBreaks.Data\SurfBreaks.Data.csproj", "{ED152EB0-1DDC-4114-AE63-EA1A6CCA34C9}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SurfBreaks.Tests", "SurfBreaks.Tests\SurfBreaks.Tests.csproj", "{2FE3ED38-BB6F-4FB7-BFBB-A5239E522072}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{ED152EB0-1DDC-4114-AE63-EA1A6CCA34C9}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{ED152EB0-1DDC-4114-AE63-EA1A6CCA34C9}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{ED152EB0-1DDC-4114-AE63-EA1A6CCA34C9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2FE3ED38-BB6F-4FB7-BFBB-A5239E522072}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2FE3ED38-BB6F-4FB7-BFBB-A5239E522072}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2FE3ED38-BB6F-4FB7-BFBB-A5239E522072}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2FE3ED38-BB6F-4FB7-BFBB-A5239E522072}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
