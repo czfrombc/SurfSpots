@@ -14,7 +14,7 @@
 *.userprefs
 
 # Folders
-.vs/
+*/.vs
 
 # Build results
 [Dd]ebug/
